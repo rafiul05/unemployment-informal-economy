@@ -51,7 +51,7 @@ The main objective of this study is to explore the impact of the informal econom
 | File | Description |
 |------|-------------|
 | `infrml-econ_unemp database.xlsx` | Cleaned dataset for 148 countries (1993–2020) |
-| `.RData` | R workspace containing models and cleaned data |
+| `Unemployment and the Informal Economy` | R workspace containing models and cleaned data |
 | `ECO530 Poster Presentation_Rafiul.pdf` | Presentation slide deck |
 | `ECO530 Poster Draft 2_121124_Rafiul.pdf` | Final research poster |
 
